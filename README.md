@@ -1,4 +1,6 @@
 # Retail_Sales_Prediction
+
+## Project Summary
  This is an Regression project to predict the sales 
  Rossman operates over 3000 drug stores in 7 Europian countries in which there are two datasets given. The ultimate goal is to find insights from the data and fit machine learning model to pridict the sales. There are two dataset in which one dataset has information on storeid,sales,customers,promotions and holidays and the other dataset has store,assortment type, store type, promotion intervals and some information on competition.
 In this project I have done Data manipulation and conducted basic Exploratory data Analysis 
